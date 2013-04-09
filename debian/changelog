@@ -1,3 +1,9 @@
+python-jsonschema (1.1.0-1~precise1) precise; urgency=low
+
+  * New upstream release.
+
+ -- Andrew Otto (WMF) <otto@wikimedia.org>  Tue, 09 Apr 2013 15:34:13 +0000
+
 python-jsonschema (0.8.0-2) experimental; urgency=low
 
   * Missing build-dependency: python-mock (Closes: #700283).
